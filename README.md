@@ -77,15 +77,15 @@ python3 calculadora.py
 
 Ele garante que o script Python seja iniciado sem precisar digitá-lo manualmente no terminal.
 
-📥 Download e Uso
+📥 Download e como Usá-lo :
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/calculadora-python.git
+git clone [https://github.com/oGuiCorreia/Ebac-Analise_de_Dados]
 
 Acesse a pasta do projeto:
 
-cd calculadora-python
+cd Ebac-Analise_de_Dados
 
 Execute a calculadora pelo Python ou pelo script shell.
 
